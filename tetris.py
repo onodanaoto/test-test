@@ -1,4 +1,3 @@
-12345
 import pygame
 import random
 
